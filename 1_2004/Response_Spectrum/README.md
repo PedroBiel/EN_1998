@@ -1,4 +1,3 @@
-# EN 1998-1:2004
+# EN_ElastDesignRespSpectr (18-02)
 
-Eurocode 8: Design of structures for earthquake resistance -
-Part 1 : General rules, seismic actions and rules for buildings
+Elastic and design response spectrum according to EN 1998-1-1:2004
